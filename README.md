@@ -2,6 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Backend%20Developer)
 </div>
+<div align=center><h2>🙋‍♂️ INTRODUCE 🙋</h2></div>
+<div align=center>
+  🎓 <b>KyungHee Univ. Department of Electronic Engineering (2020.03 ~ present)</b></br>
+  📓 <b>UMC 4th Sever-Node.js (2023.03 ~ 2023.08)</b>
+</div>
 <div align=center><h2>📚 MY STACKS 📚</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
