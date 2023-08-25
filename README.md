@@ -1,4 +1,8 @@
-<div align=center><h2>📚 MY STACKS</h2></div>
+<div align=center>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Backend%20Developer)
+</div>
+<div align=center><h2>📚 MY STACKS 📚</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -34,4 +38,16 @@
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</div>
+<div align=center><h2>🐧 Github Status 🐧</h2></div>
+<div align=center>
+
+  ![KHU-if's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHU-if&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHU-if&layout=donut)](https://github.com/KHU-if/github-readme-stats)
+</div>
+<div align=center><h2>🚀 Coding Test Level 🚀</h2></div>
+<div align=center>
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy8881)](https://solved.ac/toy8881)
 </div>
