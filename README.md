@@ -7,7 +7,8 @@
   🎓 <b>KyungHee Univ. Department of Electronic Engineering (2020.03 ~ present)</b></br>
   🎓 <b>Wabu High School (2017.03 ~ 2020.02)</b></br>
   📓 <b>UMC 4th Server-Node.js (2023.03 ~ 2023.08)</b></br>
-  📓 <b>Gyeonggi Science High School. Information Gifted Education Course (2014)</b>
+  📓 <b>Gyeonggi Science High School. Information Gifted Education Course (2014)</b></br>
+  🏆 <b>Information Olympiad 3rd (2015)</b>
 </div>
 <div align=center><h2>📚 MY STACKS 📚</h2></div>
 <div align=center> 
