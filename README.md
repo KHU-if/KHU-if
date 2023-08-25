@@ -5,7 +5,7 @@
 <div align=center><h2>🙋‍♂️ INTRODUCE 🙋</h2></div>
 <div align=center>
   🎓 <b>KyungHee Univ. Department of Electronic Engineering (2020.03 ~ present)</b></br>
-  📓 <b>UMC 4th Sever-Node.js (2023.03 ~ 2023.08)</b>
+  📓 <b>UMC 4th Server-Node.js (2023.03 ~ 2023.08)</b>
 </div>
 <div align=center><h2>📚 MY STACKS 📚</h2></div>
 <div align=center> 
