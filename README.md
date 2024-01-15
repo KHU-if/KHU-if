@@ -52,9 +52,3 @@
   ![KHU-if's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHU-if&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHU-if&layout=donut)](https://github.com/KHU-if/github-readme-stats)
 </div>
-<div align=center><h2>🚀 Coding Test Level 🚀</h2></div>
-<div align=center>
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=toy8881)](https://solved.ac/toy8881)
-</div>
